@@ -1,0 +1,6 @@
+{
+  "require": {
+    "php": "^7.4",
+    "azuyalabs/yasumi": "^2.3"
+  }
+}
